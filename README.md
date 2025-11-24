@@ -144,12 +144,12 @@ If not — simply open `index.html` in your browser.
 
 ## README Checklist
 
-* [ ] Clear project description
-* [ ] Working live demo link
-* [ ] Accurate technologies list
-* [ ] Clean installation instructions
-* [ ] No Mate Academy–specific instructions
-* [ ] Repository contains only required files, no unused assets
+* [x] Clear project description
+* [x] Working live demo link
+* [x] Accurate technologies list
+* [x] Clean installation instructions
+* [x] No Mate Academy–specific instructions
+* [x] Repository contains only required files, no unused assets
 
 ---
 
